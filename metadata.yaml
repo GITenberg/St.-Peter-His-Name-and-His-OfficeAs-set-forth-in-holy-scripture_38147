@@ -1,0 +1,30 @@
+_repo: St.-Peter-His-Name-and-His-OfficeAs-set-forth-in-holy-scripture_38147
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allies, T. W. (Thomas William)
+    aliases:
+    - Allies, Thomas W.
+    - Allies, Thomas William
+    birthdate: 1813
+    deathdate: 1903
+    gutenberg_agent_id: '33803'
+    url: http://www.gutenberg.org/2009/agents/33803
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_William_Allies
+description: ''
+gutenberg_issued: '2011-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peter, the Apostle, Saint'
+- !lcc 'BS'
+title: St. Peter, His Name and His Office, as Set Forth in Holy Scripture
+url: http://www.gutenberg.org/ebooks/38147
